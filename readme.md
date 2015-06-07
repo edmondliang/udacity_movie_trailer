@@ -21,4 +21,7 @@ Have fun!
   - file operation
   - string operation
   - webbrowser module
+
+#Other resourse
+I used fresh_tomatoes.py which provided by Udacity.
  
